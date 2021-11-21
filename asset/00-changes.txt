@@ -1,0 +1,3 @@
+ALTER TABLE `section` CHANGE `order` `sortorder` INT NOT NULL DEFAULT '0';
+
+----------------------------- 
